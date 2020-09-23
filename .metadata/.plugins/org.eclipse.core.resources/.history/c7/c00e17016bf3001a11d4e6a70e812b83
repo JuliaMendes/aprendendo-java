@@ -1,9 +1,0 @@
-package fundamentos;
-
-public class test {
-	public static void main(String[] args) {
-	
-		Object oi;
-		System.out.printf("Oi tudo bem".formatted(oi));
-}
-}
